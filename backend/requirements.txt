@@ -1,0 +1,10 @@
+alembic
+asyncpg
+fastapi
+groq
+langgraph
+pydantic-settings
+python-jose[cryptography]
+sqlalchemy
+uvicorn[standard]
+

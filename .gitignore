@@ -1,0 +1,47 @@
+# Project Custom Ignores
+implementation_plan.md
+Naukri - New Assignment APR.pdf
+.agents
+.codex
+
+# Databases & Local Files
+crm.db
+crm.db-journal
+crm.db-wal
+.env
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.eslintcache
+
+# Python / Backend
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+var/
+PyCharm/
+.pytest_cache/
+.coverage
+htmlcov/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDEs & System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
